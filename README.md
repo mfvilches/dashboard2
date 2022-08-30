@@ -1,1 +1,5 @@
-# dashboard2
+# Proyecto Dashboard - Visualización de Datos
+
+En este proyecto tenemos por objetivo mostrr datos sobre las atenciones de urgencia producidas en Chile el año 2019, con la finalidad de servir a un tomador de decisiones centralizado y que pueda visualizar rápidamente a nivel de región y centro la demanda por atenciones de urgencia. Los primeros tres gráficos son a nivel regional, donde los dos primeros son caracterizaciones de la población que atiende cada establecimiento y su composición por grupo etario, mientras que el tercero es la distribución geográfica espacial de la demanda por establecimiento.
+Es relevante ver que los dos primeros gráficos comparten leyenda, fijandonos también en lograr coherencia de colores entre ambos para facilitar la lectura.
+Luego, los gráficos siguientes muestran la desagregación de los datos a nivel de Centro, lo que permite ver la variabilidad durante el año por patología y semana del año y los estadísticos principales de las atenciones demandadas, como así también nos pareció pertinente incluir una nube de palabras basada en la frecuencia de las patologías, ya que de esta forma, y en una mirada muy rápida, se puede identificar las principales patologías del Centro en cuestión.
